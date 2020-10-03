@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.universalstudios.orlandoresort",
+    "sha256_cert_fingerprints":
+    ["CB:78:F4:CC:76:CA:6A:0C:5C:5A:1C:AA:F8:F4:59:EF:8D:14:D4:6A:88:E2:A5:B6:FB:BD:95:35:E3:A8:33:AC"]
+  }
+}]
